@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: com.shuhart.stepview:stepview:1.3.1@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5d8b54a488bdbd7096b67603bab002f6/transformed/stepview-1.3.1/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6489950774b9c57d31be1982399ba2a5/transformed/stepview-1.3.1/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5d8b54a488bdbd7096b67603bab002f6/transformed/stepview-1.3.1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5d8b54a488bdbd7096b67603bab002f6/transformed/stepview-1.3.1/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5d8b54a488bdbd7096b67603bab002f6/transformed/stepview-1.3.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6489950774b9c57d31be1982399ba2a5/transformed/stepview-1.3.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6489950774b9c57d31be1982399ba2a5/transformed/stepview-1.3.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6489950774b9c57d31be1982399ba2a5/transformed/stepview-1.3.1/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

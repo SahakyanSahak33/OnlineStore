@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.firebase:firebase-appcheck:17.1.0@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c098e5f56b6c5617da15c697d68099b3/transformed/firebase-appcheck-17.1.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/079aa7835e2314dc0291a6b74f03e6f7/transformed/firebase-appcheck-17.1.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c098e5f56b6c5617da15c697d68099b3/transformed/firebase-appcheck-17.1.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c098e5f56b6c5617da15c697d68099b3/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/079aa7835e2314dc0291a6b74f03e6f7/transformed/firebase-appcheck-17.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/079aa7835e2314dc0291a6b74f03e6f7/transformed/firebase-appcheck-17.1.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

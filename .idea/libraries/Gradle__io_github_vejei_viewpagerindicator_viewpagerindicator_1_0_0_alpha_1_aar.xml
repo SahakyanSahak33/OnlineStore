@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: io.github.vejei.viewpagerindicator:viewpagerindicator:1.0.0-alpha.1@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/36fb7956acf9fe22af1388713f7e3fb9/transformed/viewpagerindicator-1.0.0-alpha.1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/36fb7956acf9fe22af1388713f7e3fb9/transformed/viewpagerindicator-1.0.0-alpha.1/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/36fb7956acf9fe22af1388713f7e3fb9/transformed/viewpagerindicator-1.0.0-alpha.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5e9441c17b2dd1fe3793d3434490f196/transformed/viewpagerindicator-1.0.0-alpha.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5e9441c17b2dd1fe3793d3434490f196/transformed/viewpagerindicator-1.0.0-alpha.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5e9441c17b2dd1fe3793d3434490f196/transformed/viewpagerindicator-1.0.0-alpha.1/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

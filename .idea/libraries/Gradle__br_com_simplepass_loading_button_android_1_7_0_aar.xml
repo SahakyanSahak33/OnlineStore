@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: br.com.simplepass:loading-button-android:1.7.0@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/0c6873e086645e67b8db03d3428be3f0/transformed/loading-button-android-1.7.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0c6873e086645e67b8db03d3428be3f0/transformed/loading-button-android-1.7.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0c6873e086645e67b8db03d3428be3f0/transformed/loading-button-android-1.7.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6b163ab4144ce615b66f39dbc354eaa9/transformed/loading-button-android-1.7.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6b163ab4144ce615b66f39dbc354eaa9/transformed/loading-button-android-1.7.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6b163ab4144ce615b66f39dbc354eaa9/transformed/loading-button-android-1.7.0/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/br.com.simplepass/loading-button-android/1.7.0/d1809cd8b61fcffb203a646d841997797ab22363/loading-button-android-1.7.0-javadoc.jar!/" />
