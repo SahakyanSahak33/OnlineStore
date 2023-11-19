@@ -10,6 +10,7 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        jcenter() // If you still encounter issues, try adding jcenter as well
     }
 }
 
